@@ -1,5 +1,3 @@
-### Login, Register, Logout приложение защиты ресурсов React, React-router, TypeScript, Axios, Vite, Styled-components.
-
 ### Структура проекта:
 
 ```
